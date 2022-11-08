@@ -1,4 +1,11 @@
+body {
+    background:  #FFF0F5 
+}
+
 p {
     text align: center;
-    background:  #FFF0F5
-   }
+}
+
+strong {
+    color: Thistle;
+}
